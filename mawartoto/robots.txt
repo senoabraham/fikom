@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://fikom.ui.ac.id.bastienboutonnet.com/mawartoto/sitemap.xml
